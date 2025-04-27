@@ -1,6 +1,6 @@
 # Chemical Plant Process Automation with iTRiLOGI
 
-![Chem Plant](chemplant.png)
+![Chem Plant](chemplant.jpg)
 
 ## Overview
 Programmed a Programmable Logic Controller (PLC) using iTRiLOGI to automate a chemical plant, balancing a 4-month project timeline as a full-time student and part-time worker.
@@ -30,4 +30,4 @@ Delivered a functional PLC program for the chemical plant.
 Demonstrated effective time management and technical skills under constrained conditions.
 
 
-![Chem Plant](ChemPlant.jpg)
+![Chem Plant](ChemPlant.png)
